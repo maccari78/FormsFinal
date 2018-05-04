@@ -1,0 +1,36 @@
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.exe.config
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.exe
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.pdb
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.xml
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.vbprojResolveAssemblyReference.cache
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.FPrincipal.resources
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.FSecundario.resources
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.Resources.resources
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.vbproj.GenerateResource.Cache
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.exe
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.xml
+C:\Users\macca\OneDrive\Técnico Superior Computación\10 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.pdb
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.exe.config
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.exe
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.xml
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.pdb
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.exe
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.pdb
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.xml
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.vbprojResolveAssemblyReference.cache
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.FPrincipal.resources
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.FSecundario.resources
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.Resources.resources
+C:\Users\macca\OneDrive\Técnico Superior Computación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.vbproj.GenerateResource.Cache
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.exe.config
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.exe
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.xml
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.pdb
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.exe
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.pdb
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\bin\Debug\TP07E01 FormsFinal.xml
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.vbprojResolveAssemblyReference.cache
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.FPrincipal.resources
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.FSecundario.resources
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01_FormsFinal.Resources.resources
+C:\Users\macca\OneDrive\TécnicoSuperiorComputación\90008 Procesamiento de datos\TP07E01 FormsFinal\TP07E01 FormsFinal\obj\Debug\TP07E01 FormsFinal.vbproj.GenerateResource.Cache
